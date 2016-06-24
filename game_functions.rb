@@ -1,4 +1,3 @@
-
 def generate_question
   @randnum, @randnum2 = 1+rand(UPPER_LIMIT), 1+rand(UPPER_LIMIT)
 end
